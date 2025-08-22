@@ -19,7 +19,7 @@ It demonstrates a full data pipeline: raw → processed → insights, with modul
 ├── visuals/          # Generated charts and plots
 ├── INSIGHTS.md       # Key insights & visuals summary
 ├── README.md         # Project documentation
-├── requirements.txt # Project dependencies
+├── requirements.txt  # Project dependencies
 ├── .gitignore        # Ignore unnecessary files
 └── LICENSE           # License file
 
